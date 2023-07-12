@@ -18,7 +18,7 @@ PÁGINA DO DASHBOARD
 RELACIONAMENTOS ENTRE TABELAS
 ![image](https://github.com/LeonardoFarias28/Power-BI/assets/34768673/ea3ccc3f-72cb-44e1-800a-94c1b297b635)
 
-Para armazenar as metricas e organizar o projeto criamos uma tabela nomeada Metrics
+PARA ARMAZENAR AS METRICAR E ORGANIZAR O PROJETO CRIAMOS UMA TABELA NOMEADA METRICS </br>
 ![image](https://github.com/LeonardoFarias28/Power-BI/assets/34768673/99de3513-e77b-430c-9642-76f53b9c235a)
 
 
